@@ -1,1 +1,1 @@
-The site of the todo list: https://todo-list9999.netlify.app/
+Live link of todo list project: https://todo-list9999.netlify.app/
